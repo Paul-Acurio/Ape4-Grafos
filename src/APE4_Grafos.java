@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class APE4_Grafos {
 
     // ═══════════════════════════════════════
     // Nodo
